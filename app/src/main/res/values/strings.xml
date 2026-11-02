@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Practice</string>
+    <string name="task_check_text">All tasks completed</string>
+    <string name="task_congrats">Nice work!</string>
+</resources>
